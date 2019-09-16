@@ -1,0 +1,14 @@
+h1{
+    font-size: 60px;
+    color:greenyellow;
+    text-decoration:underline;
+    font-style:italic;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:Url("IMG-20190908-WA0001.jpg");
+}
+
+
+
